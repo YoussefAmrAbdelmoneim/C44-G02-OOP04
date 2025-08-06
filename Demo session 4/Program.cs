@@ -49,6 +49,22 @@
             //typeBObj.B = 20;
             //typeBObj.MyFun01();
             //typeBObj.MyFun02();
+
+            #region Binding
+            //TypeA refBase = new TypeB(1,2);
+            //refBase.A = 10;
+            //refBase.MyFun01(); //Static Polymorphism -static binding - early binding
+            ////compilation time
+            ////overriding using new
+            ////resolve at compile time based on reference type
+
+
+            //refBase.MyFun02(); //Dynamic Polymorphism -dynamic binding - late binding
+            ////runtime time
+            ////overriding using override
+            ////resolve at run timebased on object type
+
+            #endregion
         }
     }
 }

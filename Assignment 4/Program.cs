@@ -28,6 +28,16 @@
             //Manager m1 = new Manager();
             //m1.Work();
             #endregion
+            #region Q5
+            //BaseClass derivedClass1 = new DerivedClass1(); //override
+            //derivedClass1.DisplayMessage();
+            ////Dynamic binding (runtime polymorphism) Late Binding
+            ////Resolve at run time based on object type
+            //BaseClass derivedClass2 = new DerivedClass2(); //new
+            //derivedClass2.DisplayMessage();
+            ////Static binding (Compile polymorphism) early Binding
+            ////Resolve at Compile based on reference type
+            #endregion
             #endregion
         }
     }

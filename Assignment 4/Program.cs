@@ -11,6 +11,9 @@
             //c1.Add(1, 2, 3);
             //c1.Add(1.5, 2.7);
             #endregion
+            #region Q2
+            //Rectangle r1 = new Rectangle(2,4);
+            #endregion
             #endregion
         }
     }

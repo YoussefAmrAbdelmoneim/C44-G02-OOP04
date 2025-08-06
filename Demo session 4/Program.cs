@@ -43,6 +43,12 @@
             //    Console.WriteLine("c2>c1");
             //else
             //    Console.WriteLine("c1==c2");
+
+            //TypeB typeBObj = new TypeB(1,2);
+            //typeBObj.A = 10;
+            //typeBObj.B = 20;
+            //typeBObj.MyFun01();
+            //typeBObj.MyFun02();
         }
     }
 }

@@ -24,6 +24,10 @@
             //Console.WriteLine(c1+c2);
             //Console.WriteLine(c1-c2);
             #endregion
+            #region Q4
+            //Manager m1 = new Manager();
+            //m1.Work();
+            #endregion
             #endregion
         }
     }
